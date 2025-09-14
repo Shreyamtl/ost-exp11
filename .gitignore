@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+*.env
+secrets/
+
+# Large data (optional, store externally)
+data/
